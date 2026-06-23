@@ -12,7 +12,7 @@ Pandas
 Scikit-learn
 NumPy
 Installation
-Clone the repository: git clone https:
+Clone the repository: git clone https:Movie_Recommendation_System.ipynb
 
 Install dependencies: pip install pandas scikit-learn numpy
 
